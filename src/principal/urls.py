@@ -22,3 +22,4 @@ urlpatterns = [
     url(r'^clientes/', include('clientes.urls')),
     url(r'^funcionarios/', include('funcionarios.urls')),
 ]
+admin.site.site_header = 'Academy Factory'
