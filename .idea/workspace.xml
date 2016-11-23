@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6051dcc2-f340-4f34-9991-06a705941541" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/principal/urls.py" afterPath="$PROJECT_DIR$/src/principal/urls.py" />
     </list>
     <ignored path="AcademyFactory.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -430,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479916235368</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Mudança no nome da logo admin">
+      <created>1479939572269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1479939572269</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -498,7 +504,8 @@
     <MESSAGE value=".." />
     <MESSAGE value="alterção no README" />
     <MESSAGE value="Testar mudança" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testar mudança" />
+    <MESSAGE value="Mudança no nome da logo admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudança no nome da logo admin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
