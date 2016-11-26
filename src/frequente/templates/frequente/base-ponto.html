@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+
+    {% load staticfiles %}
+    <link href="{% static 'css/bootstrap-login.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/ie10-viewport-bug-workaround-login.css' %}" rel="stylesheet">
+    <link href="{% static 'css/signin.css' %}" rel="stylesheet">
+
+
+</head>
+<body>
+  <div class="container marketing">
+
+{% block informacao %}
+{%endblock%}
+
+
+
+<div>
+
+    <div class="container">
+
+      <form class="form-signin" method="post">
+        <h2 class="form-signin-heading">{% block msg-h2-form %}{% endblock %}</h2>
+            {% block form %}
+            {% endblock %}
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Registrar</button>
+      </form>
+
+    </div> <!-- /container -->
+
+
+</div>
+
+        </div><!-- /.container -->
+
+
+</body>
+</html>

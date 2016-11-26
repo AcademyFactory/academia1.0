@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6051dcc2-f340-4f34-9991-06a705941541" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/frequente/templates/frequente/footer.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/clientes/templates/clientes/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/clientes/templates/clientes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/clientes/templates/clientes/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/header.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/academy_db" afterPath="$PROJECT_DIR$/src/academy_db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/academia/urls.py" afterPath="$PROJECT_DIR$/src/academia/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/academia/views.py" afterPath="$PROJECT_DIR$/src/academia/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html" afterPath="$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/clientes/templates/clientes/saida.html" afterPath="$PROJECT_DIR$/src/clientes/templates/clientes/saida.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html" afterPath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html" afterPath="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/principal/settings.py" afterPath="$PROJECT_DIR$/src/principal/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/principal/urls.py" afterPath="$PROJECT_DIR$/src/principal/urls.py" />
     </list>
     <ignored path="AcademyFactory.iws" />
@@ -22,24 +37,13 @@
     <favorites_list name="AcademyFactory" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/principal/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -49,15 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/academia/urls.py" />
-        <option value="$PROJECT_DIR$/src/clientes/urls.py" />
-        <option value="$PROJECT_DIR$/src/clientes/admin.py" />
-        <option value="$PROJECT_DIR$/tete.py" />
-        <option value="$PROJECT_DIR$/tk.py" />
-        <option value="$PROJECT_DIR$/src/templates/clientes/entrada.html" />
-        <option value="$PROJECT_DIR$/src/templates/clientes/saida.html" />
-        <option value="$PROJECT_DIR$/src/templates/bases/footer.html" />
-        <option value="$PROJECT_DIR$/src/templates/bases/header.html" />
         <option value="$PROJECT_DIR$/src/templates/bases/base.html" />
         <option value="$PROJECT_DIR$/src/funcionarios/forms.html" />
         <option value="$PROJECT_DIR$/src/clientes/forms.py" />
@@ -66,24 +61,49 @@
         <option value="$PROJECT_DIR$/src/clientes/templates/clientes/header.html" />
         <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/header.html" />
         <option value="$PROJECT_DIR$/src/clientes/models.py" />
-        <option value="$PROJECT_DIR$/src/principal/settings.py" />
         <option value="$PROJECT_DIR$/src/templates/clientes/base.html" />
-        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html" />
-        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/saida.html" />
-        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html" />
-        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html" />
         <option value="$PROJECT_DIR$/src/clientes/views.py" />
         <option value="$PROJECT_DIR$/src/funcionarios/views.py" />
         <option value="$PROJECT_DIR$/src/funcionarios/models.py" />
         <option value="$PROJECT_DIR$/src/funcionarios/admin.py" />
         <option value="$PROJECT_DIR$/src/academia/models.py" />
         <option value="$PROJECT_DIR$/src/academia/admin.py" />
-        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/base.html" />
-        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/base.html" />
         <option value="$PROJECT_DIR$/Sequencia e urls" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/nav.html" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/nav.html" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/paginas.html" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/base.html" />
+        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/base.html" />
+        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/base.html" />
+        <option value="$PROJECT_DIR$/src/gerais/templates/gerais/base.html" />
+        <option value="$PROJECT_DIR$/src/gerais/templates/gerais/base-index.html" />
+        <option value="$PROJECT_DIR$/src/gerais/templates/gerais/nav.html" />
+        <option value="$PROJECT_DIR$/src/academia/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/src/academia/static/css/ie10-viewport-bug-workaround.css" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/index.html" />
+        <option value="$PROJECT_DIR$/src/gerais/templates/gerais/footer.html" />
+        <option value="$PROJECT_DIR$/src/principal/settings.py" />
+        <option value="$PROJECT_DIR$/src/frequente/urls.py" />
+        <option value="$PROJECT_DIR$/src/frequente/views.py" />
+        <option value="$PROJECT_DIR$/src/academia/forms.py" />
+        <option value="$PROJECT_DIR$/src/academia/urls.py" />
+        <option value="$PROJECT_DIR$/src/clientes/urls.py" />
         <option value="$PROJECT_DIR$/src/principal/urls.py" />
+        <option value="$PROJECT_DIR$/src/academia/views.py" />
+        <option value="$PROJECT_DIR$/src/frequente/static/css/bootstrap-login.min.css" />
+        <option value="$PROJECT_DIR$/src/frequente/static/css/ie10-viewport-bug-workaround-login.css" />
+        <option value="$PROJECT_DIR$/src/frequente/static/css/signin.css" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/login.html" />
+        <option value="$PROJECT_DIR$/src/frequente/templates/frequente/base-ponto.html" />
+        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html" />
+        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html" />
+        <option value="$PROJECT_DIR$/src/clientes/templates/clientes/saida.html" />
+        <option value="$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html" />
+        <option value="$PROJECT_DIR$/src/frequente/templates/frequente/base-pontuador.html" />
+        <option value="$PROJECT_DIR$/src/academia/templates/academia/ponto.html" />
+        <option value="$PROJECT_DIR$/src/frequente/templates/frequente/index.html" />
       </list>
     </option>
   </component>
@@ -100,7 +120,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -118,7 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,13 +185,79 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="principal" />
+              <option name="myItemId" value="funcionarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="funcionarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frequente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AcademyFactory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frequente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frequente" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,17 +267,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\funcionarios\static\css" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\clientes" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\templates" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\funcionarios\templates\funcionarios" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\clientes\templates\clientes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\clientes\templates\clientes" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\templates\bases" />
-      <recent name="C:\Users\Jaqueline Régis\Desktop\AcademyFactory\src\templates" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\frequente\templates\frequente" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\frequente" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\principal\templates\frequente" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\gerais\templates\gerais" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\academia\templates\academia" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\frequente" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\academia\templates\academia" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\clientes\templates\clientes" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\funcionarios\templates\funcionarios" />
+      <recent name="C:\Users\Jaqueline Régis\Documents\WorkSpace\Projeto APS\AcademyFactory\src\templates\geral" />
     </key>
   </component>
   <component name="RunManager" selected="Python.teste">
@@ -444,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479939592523</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Mudança no nome da logo admin">
+      <created>1479939818638</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1479939818638</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -460,13 +555,13 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49439043" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5141369" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4858631" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -478,6 +573,25 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -527,109 +641,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/clientes/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/academia/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tk.py" />
-    <entry file="file://$PROJECT_DIR$/src/templates/clientes/saida.html" />
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/forms.html" />
-    <entry file="file://$PROJECT_DIR$/src/clientes/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/funcionarios/entrada.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/funcionarios/saida.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/bases/footer.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/bases/base.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/bases/header.html" />
-    <entry file="file://$PROJECT_DIR$/src/templates/clientes/entrada.html" />
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/bases/base.html" />
-    <entry file="file://$PROJECT_DIR$/src/academia/templates/bases/base.html" />
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/bases/base.html" />
-    <entry file="file://$PROJECT_DIR$/src/academia/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/footer.html" />
     <entry file="file://$PROJECT_DIR$/src/clientes/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -645,55 +657,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/clientes/base.html" />
-    <entry file="file://$PROJECT_DIR$/src/clientes/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/saida.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clientes/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -730,13 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clientes/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -745,13 +701,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/funcionarios/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -781,18 +730,207 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teste.py" />
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/header.html" />
+    <entry file="file://$PROJECT_DIR$/src/templates/templates/geral/base.html" />
+    <entry file="file://$PROJECT_DIR$/src/academia/templates/academia/base.html" />
+    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/base.html" />
+    <entry file="file://$PROJECT_DIR$/src/gerais/templates/gerais/base-index.html" />
+    <entry file="file://$PROJECT_DIR$/src/gerais/templates/gerais/nav.html" />
+    <entry file="file://$PROJECT_DIR$/src/gerais/templates/gerais/paginas.html" />
+    <entry file="file://$PROJECT_DIR$/src/academia/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20100" selection-start-line="4" selection-start-column="20090" selection-end-line="4" selection-end-column="20100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/static/css/ie10-viewport-bug-workaround.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/principal/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="82" column="50" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="306">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/templates/frequente/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientes/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientes/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/principal/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientes/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/static/css/bootstrap-login.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="4" column="120176" selection-start-line="4" selection-start-column="120176" selection-end-line="4" selection-end-column="120176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/static/css/ie10-viewport-bug-workaround-login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/static/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/entrada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientes/templates/clientes/saida.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/entrada.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/funcionarios/templates/funcionarios/saida.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/templates/frequente/base-ponto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/templates/frequente/base-pontuador.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/templates/academia/ponto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/academia/templates/academia/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/frequente/templates/frequente/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>

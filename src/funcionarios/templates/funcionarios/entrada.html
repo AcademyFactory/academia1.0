@@ -1,19 +1,21 @@
-{% extends 'funcionarios/base.html' %}
+{% extends 'frequente/base-ponto.html' %}
 
 {% block title %} Entrada - Funcionarios {% endblock %}
 
 {% block informacao %}
 
-<h1>Marque sua Entrada</h1>
-
 {% if ok_message %} <p><strong>{{ok_message}}</strong></p> {% endif %}
 
 {%endblock%}
 
+
+{% block msg-h2-form %}Marque sua Entrada{% endblock %}
+
+
 {% block form %}
-    <form method="post" action="">
+
         {% csrf_token %}
         {{entrar.as_p}}
-        <input type="submit" value="Registrar"/>
-    </form>
+
 {% endblock %}
+

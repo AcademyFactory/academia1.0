@@ -1,0 +1,17 @@
+{% extends 'frequente/base-ponto.html' %}
+
+
+{% block title %} Login {% endblock %}
+
+{% block informacao %}
+{%endblock%}
+
+{% block msg-h2-form %}Informe seu login e senha para abrir as paginas de ponto{% endblock %}
+
+{% block form %}
+
+        {% csrf_token %}
+        {{entrar.as_p}}
+
+{% endblock %}
+

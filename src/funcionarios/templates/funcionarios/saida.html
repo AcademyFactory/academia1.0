@@ -1,21 +1,18 @@
-{% extends 'funcionarios/base.html' %}
+{% extends 'frequente/base-ponto.html' %}
 
 {% block title %} Saída - Funcionarios {% endblock %}
 
 {% block informacao %}
 
-<h1>Marque sua Saída</h1>
-
 {% if error_message %} <p><strong>{{error_message}}</strong></p> {% endif %}
-
-{% if ok_message %} <p><strong>{{ok_message}}</strong></p> {% endif %}
 
 {%endblock%}
 
+{% block msg-h2-form %} Marque sua Saída{% endblock %}
+
 {% block form %}
-    <form method="post" action="">
+
         {% csrf_token %}
         {{sair.as_p}}
-        <input type="submit" value="Registrar"/>
-    </form>
+
 {% endblock %}

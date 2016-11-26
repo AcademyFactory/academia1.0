@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Academy Factory</title>
+
+    {% load staticfiles %}
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/ie10-viewport-bug-workaround.css' %}" rel="stylesheet">
+
+
+    <link href="carousel.css" rel="stylesheet">
+</head>
+<body>
+
+  <div class="navbar-wrapper">
+      <div class="container">
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="/">Academy Factory</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/admin">Administação</a></li>
+                  <li><a href="/academia/login">Ponto</a></li>
+                  </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+  </div>
+  <div class="container marketing">
+   <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">A importancia de frequentar uma academia <span class="text-muted">Retirado do site: http://www.suacorrida.com.br/</span></h2>
+          <p class="lead">A atividade física pode combater uma das doenças mais comuns hoje em dia. Segundo a pesquisa da Vigitel, realizada em abril deste ano, além de  52,5% brasileiros estarem acima do peso, 17,9% são obesos. Para o professor, a solução pode estar na academia. “A obesidade causa vários problemas de saúde. Porém, na academia, você pode prevenir este problema e se tornar uma pessoa com baixo percentual de gordura.”</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" src="{% static 'img/img-academia.jpg' %}" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+    <br/>
+
+    {% include "frequente/footer.html" %}
+      <div><!-- /.container -->
+
+</body>
+</html>
+

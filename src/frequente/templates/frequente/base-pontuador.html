@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+
+    {% load staticfiles %}
+    <link href="{% static 'css/bootstrap-login.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/ie10-viewport-bug-workaround-login.css' %}" rel="stylesheet">
+    <link href="{% static 'css/signin.css' %}" rel="stylesheet">
+
+
+</head>
+<body>
+  <div class="container marketing">
+
+{% block informacao %}
+{%endblock%}
+
+</div><!-- /.container -->
+
+
+</body>
+</html>

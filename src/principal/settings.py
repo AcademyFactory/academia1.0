@@ -25,7 +25,7 @@ SECRET_KEY = '$@m%d&8kkf36ly%w3-$eo2^=$q)ytg2%8r7)q5wu0=)027p+)b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['academyfactory.pythonanywhere.com',]
 
 
 # Application definition
@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'academia',
     'clientes',
     'funcionarios',
+    'frequente',
 ]
 
 MIDDLEWARE = [
